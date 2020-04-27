@@ -4,15 +4,13 @@
   "description": "display ISO date in yyyymmdd format",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/util8/yyyymmdd.git"
   },
-  "keywords": [
-    "util8"
-  ],
+  "keywords": ["util8"],
   "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
   "license": "UNLICENSED",
   "bugs": {
