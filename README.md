@@ -5,4 +5,10 @@
 
 Library to return date in yyyymmdd format
 
+## Installation
+
+    $ npm install is-promise
+
+You can also use it client side via npm.
+
 Copyright (c) 2020 Melvin Carvalho
