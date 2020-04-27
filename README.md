@@ -7,7 +7,7 @@ Library to return date in yyyymmdd format
 
 ## Installation
 
-    $ npm install is-promise
+    $ npm install @util8/yyyymmdd
 
 You can also use it client side via npm.
 
