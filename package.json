@@ -1,6 +1,6 @@
 {
   "name": "@util8/yyyymmdd",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "display ISO date in yyyymmdd format",
   "main": "index.js",
   "scripts": {
