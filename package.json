@@ -1,6 +1,6 @@
 {
   "name": "@util8/yyyymmdd",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "display ISO date in yyyymmdd format",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/util8/yyyymmdd.git"
   },
-  "keywords": ["util8"],
+  "keywords": [
+    "util8"
+  ],
   "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
   "license": "UNLICENSED",
   "bugs": {
