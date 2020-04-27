@@ -1,5 +1,5 @@
-# yyyymmdd
+# [yyyymmdd](https://github.com/util8/yyyymmdd)
 
-return date in yyyymmdd format
+Library to return date in yyyymmdd format
 
 Copyright (c) 2020 Melvin Carvalho
