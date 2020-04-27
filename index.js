@@ -1,7 +1,10 @@
+module.exports = yyyymmdd
+module.exports.default = yyyymmdd
+
 /**
  * @returns {String} ISO formatted date yyyymmdd
  */
-export default function yyyymmdd () {
+function yyyymmdd () {
   return new Date()
     .toISOString()
     .replace(/-/g, '')
