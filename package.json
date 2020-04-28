@@ -10,13 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/util8/yyyymmdd.git"
   },
-  "keywords": [
-    "util8"
-  ],
+  "keywords": ["util8"],
   "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/util8/yyyymmdd/issues"
   },
-  "homepage": "https://github.com/util8/yyyymmdd#readme"
+  "homepage": "https://github.com/util8/yyyymmdd#readme",
+  "pre-commit": ["standard"]
 }
