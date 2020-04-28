@@ -7,8 +7,6 @@ var date = new Date()
   .replace(/-/g, '')
   .split('T')[0]
 
-console.log(yyyymmdd())
-
 assert(yyyymmdd() === date)
 
 console.log('tests passed')
