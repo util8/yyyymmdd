@@ -12,4 +12,11 @@ Library to return date in yyyymmdd format
 
 You can also use it client side via npm.
 
+## API
+```
+import yyyymmdd from '@util8/yyyymmdd'
+
+yyyymmdd() // => 20200804
+```
+
 Copyright (c) 2020 Melvin Carvalho
