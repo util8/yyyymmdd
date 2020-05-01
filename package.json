@@ -1,6 +1,6 @@
 {
   "name": "@util8/yyyymmdd",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "display ISO date in yyyymmdd format",
   "module": "index.js",
   "main": "dist/index.js",
@@ -12,12 +12,16 @@
     "type": "git",
     "url": "git+https://github.com/util8/yyyymmdd.git"
   },
-  "keywords": ["util8"],
+  "keywords": [
+    "util8"
+  ],
   "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/util8/yyyymmdd/issues"
   },
   "homepage": "https://github.com/util8/yyyymmdd#readme",
-  "pre-commit": ["standard"]
+  "pre-commit": [
+    "standard"
+  ]
 }
