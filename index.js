@@ -1,5 +1,4 @@
-module.exports = yyyymmdd
-module.exports.default = yyyymmdd
+export default yyyymmdd
 
 /**
  * @returns {String} ISO formatted date yyyymmdd

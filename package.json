@@ -2,29 +2,22 @@
   "name": "@util8/yyyymmdd",
   "version": "0.1.6",
   "description": "display ISO date in yyyymmdd format",
-  "main": "index.js",
-  "module": "web_modules/index.js",
+  "module": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "node test",
-    "build": "rollup --config"
+    "build": "rollup index.js -d web_modules ; rollup --config"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/util8/yyyymmdd.git"
   },
-  "keywords": [
-    "util8"
-  ],
+  "keywords": ["util8"],
   "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/util8/yyyymmdd/issues"
   },
   "homepage": "https://github.com/util8/yyyymmdd#readme",
-  "pre-commit": [
-    "standard"
-  ],
-  "devDependencies": {
-    "@rollup/plugin-commonjs": "^11.1.0"
-  }
+  "pre-commit": ["standard"]
 }

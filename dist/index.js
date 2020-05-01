@@ -1,3 +1,5 @@
+'use strict';
+
 /**
  * @returns {String} ISO formatted date yyyymmdd
  */
@@ -8,4 +10,4 @@ function yyyymmdd () {
     .split('T')[0]
 }
 
-export default yyyymmdd;
+module.exports = yyyymmdd;

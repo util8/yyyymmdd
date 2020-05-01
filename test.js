@@ -1,5 +1,5 @@
 var assert = require('assert')
-var yyyymmdd = require('./')
+var yyyymmdd = require('./dist/index.js')
 
 // it as a promise.
 var date = new Date()
